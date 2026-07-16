@@ -1,0 +1,1 @@
+"""Shopping review search API."""
